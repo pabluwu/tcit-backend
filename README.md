@@ -8,7 +8,7 @@ API REST escrita con Django Rest Framework
 
 Python 3.11.3+
 
-## Running the frontend app
+## Running the backend app
 
 ```bash
 #Crear ambiente virtual.
